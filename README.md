@@ -1,16 +1,30 @@
-### Hi there 👋
+- 👋 Howdy! I’m Michiel of 1PGMa.
+- 👀 Interested in full stack webdevelopment, majoring in server-side development.
+- 🌱 I’m currently learning advanced JavaScript!
 
-<!--
-**Verldopia/verldopia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+One of my latest projects includes a [GitHub based clone][gh-project]. Feel free to contact me in case of questions.
 
-Here are some ideas to get you started:
+### Languages:
+<img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools:
+<img align="left" alt="JavaScript" width="32px" src="https://i.postimg.cc/hvLfxRhN/xd.png" style="padding-right:10px;" />
+<img align="left" alt="React" width="32px" src="https://i.postimg.cc/tTV1qxbq/ps.png" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="32px" src="https://i.postimg.cc/D0kS8wfq/vsc.png" style="padding-right:10px;" />
+<br />
+<br />
+
+### Connect with me:
+[<img align="left" alt="JavaScript" width="32px" src="https://i.postimg.cc/NfyQWcgt/Linkedin-logo-on-transparent-Background-PNG.png" style="padding-right:10px;" target="_blank" />][linkedin]
+[<img align="left" alt="JavaScript" width="32px" src="https://i.postimg.cc/4ycsH62d/web-design.png" style="padding-right:10px;" target="_blank" />][website]
+
+[linkedin]: https://www.linkedin.com/in/verldopia/
+[website]: https://www.verldopia.ee
+[gh-project]: https://pgmpgent-2021-pgm-2.github.io/github-clone/
