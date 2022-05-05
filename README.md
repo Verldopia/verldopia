@@ -2,7 +2,7 @@
 - 👀 Interested in full stack webdevelopment, majoring in server-side development.
 - 🌱 I’m currently learning advanced JavaScript!
 
-One of my latest projects includes a [GitHub based clone][gh-project]. Feel free to contact me in case of questions.
+Check out my repositories, or see an overview on my [portfolio][website]. Feel free to contact me in case of questions.
 
 ### Languages:
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -26,5 +26,4 @@ One of my latest projects includes a [GitHub based clone][gh-project]. Feel free
 [<img align="left" alt="JavaScript" width="32px" src="https://i.postimg.cc/4ycsH62d/web-design.png" style="padding-right:10px;" target="_blank" />][website]
 
 [linkedin]: https://www.linkedin.com/in/verldopia/
-[website]: https://www.verldopia.ee
-[gh-project]: https://pgmpgent-2021-pgm-2.github.io/github-clone/
+[website]: https://verldopia.github.io/portfolio-website/
