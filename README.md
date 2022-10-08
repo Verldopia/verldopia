@@ -1,8 +1,4 @@
-- 👋 Howdy! I’m Michiel of 1PGMa.
-- 👀 Interested in full stack webdevelopment, majoring in server-side development.
-- 🌱 I’m currently learning advanced JavaScript!
 
-Check out my repositories, or see an overview on my [portfolio][website]. Feel free to contact me in case of questions.
 
 ### Languages:
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
