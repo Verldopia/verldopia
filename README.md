@@ -19,7 +19,5 @@
 
 ### Connect with me:
 [<img align="left" alt="JavaScript" width="32px" src="https://i.postimg.cc/NfyQWcgt/Linkedin-logo-on-transparent-Background-PNG.png" style="padding-right:10px;" target="_blank" />][linkedin]
-[<img align="left" alt="JavaScript" width="32px" src="https://i.postimg.cc/4ycsH62d/web-design.png" style="padding-right:10px;" target="_blank" />][website]
 
 [linkedin]: https://www.linkedin.com/in/verldopia/
-[website]: https://verldopia.github.io/portfolio-website/
